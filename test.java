@@ -6,7 +6,8 @@ public class Hello{
 	public void test1(){
 	
 	System.out.println(
-	"dddddddddddd"
+	"dddddddlallal卡卡卡ddddd"
+
 	)
 		
 	}
